@@ -602,7 +602,16 @@ input.contact-form{
 textarea.contact-form{
   background-color: black;
   width: 80%;
-  
+  color: white;
+}
+button.contact-form{
+    background-color: rgb(17, 208, 59);
+  width: 80%;
+  height: 60px;
+    padding-left:20px;
+    padding-right:20px;
+  color: white;
+  border-radius: 5px;
 }
 /* Go to Top Button css */
 #myBtn {
